@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597050909528",
+    "project_id": "tablenotesassignmentnew",
+    "storage_bucket": "tablenotesassignmentnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597050909528:android:48e7533fde46ec30c4bb2d",
+        "android_client_info": {
+          "package_name": "com.example.tablenotesassignmentnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597050909528-419t1r43qh4m684qekasb5gjts7t00im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5IDqC0qO0y4tjpESjuE3RNCSTpGEohk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597050909528-419t1r43qh4m684qekasb5gjts7t00im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

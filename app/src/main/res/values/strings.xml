@@ -2,5 +2,10 @@
     <string name="app_name">Table Notes</string>
     <string name="app_welcome">Welcome</string>
     <string name="app_sign_in">Sign in To Continue</string>
+    <string name="email_id">Email</string>
+    <string name="password">Password</string>
+    <string name="mlink">Continue</string>
+    <string name="forgot_your_password">Forget Password ?</string>
+    <string name="by_clicking_sin_in_you_confirm">By Clicking Sin in you confirm that you\tagree with our Terms and Conditions</string>
 
 </resources>
